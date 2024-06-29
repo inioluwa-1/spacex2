@@ -1,0 +1,58 @@
+.narr{
+    font-size: 14px;
+    line-height: 26px;
+    margin-left: -170px;
+    font-weight: bold;
+}
+.big{
+    background-image: url('images/Flight_.jpg');
+    background-size: 1500px;
+    height: 100vh;
+}
+.star{
+    padding-top: 240px;
+}
+.we{
+    width: 50px;
+    height: 30px;
+}
+.gad{
+    margin-left: 5px;
+}
+.rec{
+    font-size: 20px;
+
+}
+.lea{
+    border: 2px solid white;
+    color: white;
+}
+.lea:hover{
+    background-color: white;
+    color: black;
+}
+.good{
+    background-image: url('images/Homepage_Starlink.jpg');
+    background-size: 1500px;
+    height: 100vh;
+}
+.dog{
+    background-image: url('images/space.jpg');
+    background-size: 1500px;
+    height: 100vh;
+}
+.cat{
+    background-image: url('images/make_life_multiplanetary.jpg');
+    background-size: 1500px;
+    height: 100vh;   
+}
+.dbb{
+    text-align: center;
+    font-size: 13px;
+}
+.pol{
+    font-size: 13px;
+}
+.ar{
+    padding-top: 380px;
+}
